@@ -8,6 +8,9 @@ languages:
 - dotnet
 ---
 
+# Planning
+We do our planning here: https://dev.azure.com/prodigyDevOps/azure_github_sample/_boards/board/t/azure_github_sample%20Team/Issues
+
 # Sample ASP.NET Core application for GitHub Actions
 
 For all samples to set up GitHub workflows, see [Create your first workflow](https://github.com/Azure/actions-workflow-samples
